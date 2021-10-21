@@ -495,11 +495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LearningApp\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp.csproj",
+      "projectUniqueName": "D:\\LearningApp\\Source\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp.csproj",
       "projectName": "OcelotGateWayAPIApp",
-      "projectPath": "D:\\LearningApp\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp.csproj",
+      "projectPath": "D:\\LearningApp\\Source\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp.csproj",
       "packagesPath": "C:\\Users\\BASKARAN P\\.nuget\\packages\\",
-      "outputPath": "D:\\LearningApp\\OcelotGateWayAPIApp\\obj\\",
+      "outputPath": "D:\\LearningApp\\Source\\OcelotGateWayAPIApp\\OcelotGateWayAPIApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
